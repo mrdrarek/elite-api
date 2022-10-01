@@ -1,7 +1,7 @@
 package elite
 
 import (
-	"github.com/BenJuan26/elite/flags"
+	"github.com/mrdrarek/elite-api/flags"
 )
 
 // StatusFlags contains boolean flags describing the player and ship.

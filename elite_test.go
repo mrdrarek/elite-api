@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/BenJuan26/elite"
+	"github.com/mrdrarek/elite-api"
 )
 
 var testLogPath = "./test"
